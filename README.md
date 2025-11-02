@@ -18,7 +18,7 @@ Access our ServiceNow deployment here:
 
 🎬 Project Demonstration
 View the complete system walkthrough:
-📹 Demo Video:https://drive.google.com/file/d/1y88LFHLiMaD8dQTtEmXCF8x6AQGFWpbh/view?usp=drive_link
+📹 Demo Video:https://drive.google.com/file/d/1y88LFHLiMaD8dQTtEmXCF8x6AQGFWpbh/view?usp=drivesdk
 
 🚀 Solution Overview
 "Streamlining Ticket Assignment for Efficient Support Operations" leverages ServiceNow's Flow Designer to create an intelligent routing system that automatically analyzes ticket content and directs them to appropriate support groups.
